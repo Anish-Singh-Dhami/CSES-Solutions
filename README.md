@@ -1,2 +1,2 @@
 # CSES - Solutions
-.Will Be solving random cses problems
+*Will Be solving random cses problems
