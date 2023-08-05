@@ -1,2 +1,4 @@
 # CSES - Solutions
-* Will Be solving random cses problems
+## Topics Covered
+  * KMP
+  * Z Function
