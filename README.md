@@ -2,4 +2,5 @@
 ## Topics Covered
 ### String Matching
   * KMP
-  * Z Function
+  * Z Function 
+  * Manacher's Algo (longest palindromic substring)
